@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="钱包页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-00-交易记录" transform="translate(-1186.000000, -845.000000)" fill="#EA754B">
+            <path d="M1195,852.585786 L1192.17157,849.757359 L1190.75736,851.171573 L1193.58579,854 L1190.75736,856.828427 L1192.17157,858.242641 L1195,855.414214 L1197.82843,858.242641 L1199.24264,856.828427 L1196.41421,854 L1199.24264,851.171573 L1197.82843,849.757359 L1195,852.585786 Z M1195,863 C1190.02944,863 1186,858.970563 1186,854 C1186,849.029437 1190.02944,845 1195,845 C1199.97056,845 1204,849.029437 1204,854 C1204,858.970563 1199.97056,863 1195,863 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
